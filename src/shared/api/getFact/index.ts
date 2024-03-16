@@ -1,0 +1,1 @@
+export {getFact} from "./getFact"
